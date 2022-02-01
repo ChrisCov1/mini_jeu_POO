@@ -23,4 +23,4 @@ while player1.life_points > 0 && player2.life_points > 10
   puts "C'était un beau combat"
 end
 
-binding.pryÒ
+binding.pry
