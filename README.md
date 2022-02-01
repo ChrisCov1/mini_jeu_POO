@@ -1,4 +1,6 @@
 Projets : Mini jeu - il veulent tous ta POO
+    
+    
     Version 1.0 : coder un combat entre 2 joueurs
        Player : attributs et initialize
        Player : afficher l'état d'un joueur avec show_state
